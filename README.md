@@ -162,8 +162,8 @@ Evaluating model resilience against additive white Gaussian noise at 10 dB SNR d
 Clone the repository and install required dependencies:
 
 ```bash
-git clone https://github.com/GOKULRAM-K/english-speech-emotion-recognition.git
-cd english-speech-emotion-recognition
+git clone https://github.com/GOKULRAM-K/english-speech-emotion-recognition-framework.git
+cd english-speech-emotion-recognition-framework
 pip install -r requirements.txt
 ```
 
