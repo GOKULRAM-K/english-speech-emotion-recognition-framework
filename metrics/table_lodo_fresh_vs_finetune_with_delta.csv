@@ -1,0 +1,5 @@
+Held-out dataset,Accuracy (%),Accuracy % (fine-tune),Δ Accuracy
+SAVEE,18.75,23.80,5.05
+RAVDESS,19.91,21.23,1.32
+TESS,19.70,23.87,4.17
+CREMA-D,22.09,21.95,-0.14

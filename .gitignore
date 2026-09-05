@@ -1,0 +1,33 @@
+# PDF Documents (Excluded per publication repository policy)
+*.pdf
+
+# Keras & Heavy Model Checkpoints (>80MB)
+*.keras
+*.h5
+*.ckpt
+*.weights
+
+# Raw Audio Files & Datasets
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS & IDE Settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
